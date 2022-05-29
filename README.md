@@ -1,7 +1,10 @@
-### Hi 👋
-
-[![Andis GitHub stats](https://github-readme-stats.vercel.app/api?username=Andireas1803&count_private=true)]()  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andireas1803)]()
+<h1 align="center">Hi there 👋</h1>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andireas1803&count_private=true&show_icons=true&theme=dark&custom_title=Statistik&icon_color=477BC9&title_color=ffffff&hide=SCSS,CSS" alt="Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andireas1803&count_private=true&show_icons=true&theme=dark&custom_title=Statistik&icon_color=477BC9&title_color=ffffff&include_all_commits=true" alt="Stats" />
+</p>
 
 <!--
 **Andireas1803/Andireas1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
